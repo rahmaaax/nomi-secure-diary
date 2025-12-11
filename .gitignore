@@ -1,0 +1,20 @@
+# Node modules
+node_modules/
+frontend/node_modules/
+
+# Build artifacts
+artifacts/
+cache/
+typechain/
+coverage/
+dist/
+out/
+
+# Env / secrets
+.env
+.env.local
+.env.*.local
+
+# OS junk
+.DS_Store
+Thumbs.db
