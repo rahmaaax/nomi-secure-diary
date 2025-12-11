@@ -1,4 +1,4 @@
-# 🌸 Nomi — Secure Encrypted On-Chain Diary  
+# 🌸 Nomi: Secure Encrypted On-Chain Diary  
 A privacy-first personal diary that combines blockchain immutability with end-to-end client-side encryption.
 
 Nomi demonstrates how sensitive user data can be stored on the blockchain without exposing plaintext to the network, the smart contract, or any external party.  
